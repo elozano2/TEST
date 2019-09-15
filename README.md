@@ -1,12 +1,11 @@
 ### Computer Human Interaction HW1  
 #### Eduardo Lozano
 ---
-
-
+<br/><br/>
 
 Introduction
 ===
-For the assignment, I decided to go ahead and try out the elevator  
+For this assignment, I decided to go ahead and try out the elevator  
 available at the Hyatt Place located on Mac Davis Lane. The assignment  
 asked me to record the elevator in use, making sure to record  
 how the elevator panel looked like and how the panel itslef functioned  
@@ -23,6 +22,12 @@ Each section will be based on a letter grade, where I was required to
 meet some criterea in order to achieve that letter grade.
 
 C Grade
+===
+
+B Grade
+===
+
+A Grade
 ===
 
 
