@@ -1,7 +1,9 @@
 ## Computer Human Interaction HW1  
-Eduardo Lozano
+Eduardo Lozano  
+---
 
 ### Introduction
+---
 For the assignment, I decided to go ahead and try out the elevator  
 available at the Hyatt Place located on Mac Davis Lane.
 
