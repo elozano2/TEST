@@ -1,5 +1,6 @@
-## Computer Human Interaction HW1  
-Eduardo Lozano
+##### Computer Human Interaction HW1  
+###### Eduardo Lozano
+---
 
 ### Introduction
 ---
