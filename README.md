@@ -50,4 +50,4 @@ A Grade
 
 
 
-https://editor.p5js.org/elozano2/sketches/LLdUBzbo7
+[Demo](https://github.com/elozano2/Basic_Layout)
