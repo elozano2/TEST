@@ -32,22 +32,4 @@ A Grade
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 [Demo](https://github.com/elozano2/Basic_Layout)
