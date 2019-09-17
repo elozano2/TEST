@@ -31,5 +31,5 @@ A Grade
 ===
 
 
-
+(Open in new tab)
 [Demo](https://github.com/elozano2/Basic_Layout)
